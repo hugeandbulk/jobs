@@ -9,3 +9,11 @@ Data curators are data specialists who collect, organize, clean and transform da
 What is data curation example?
 
 Examples of data curation include: Data Acquisition: This involves selecting and acquiring data from various sources, such as databases, websites, and other digital sources. This step also includes ensuring the data is of high quality and is suitable for the intended use.
+
+What is a curation strategy?
+
+Good curation includes gathering information from credible sources and adding something new to it to make it interesting and worth sharing. Some effective ways to add unique value to curated content include twisting words, adding opinions, or commentary.
+
+What are the benefits of curation?
+
+Curating content gives you a broader exposure to new topics, publishers, and websites, thus allowing you to gain insights. These findings can, in turn, help you improve your content marketing strategy and fill the gaps in the content you offer.

@@ -4,3 +4,48 @@ A full-stack engineer is a type of software engineer who works on both the front
 ---------------
 Definition of Full-Stack Engineer
 A full-stack engineer is a type of software engineer who works on both the front and back end of software. This means they're concerned with both what users see (the front end) and the parts of the software that make that user-side view possible (the back end).
+
+Coursera
+
+Articles
+Development
+What Is a Full-Stack Engineer? Job Description
+What Is a Full-Stack Engineer? Job Description
+Written by Coursera • Updated on Jun 16, 2023
+This article explains the duties of a full-stack engineer, from software development to team leadership. Plus, learn what skills full-stack engineers need, some of the challenges they may face, and how to get started. 
+
+[Featured image) A full-stack engineer smiles in front of two computer screens.
+If you are technically inclined, a career as a full-stack engineer could be a fulfilling path for your future. In this article, we break down the duties and responsibilities of a full-stack engineer to provide an overview of the role.
+
+What is a full-stack engineer?
+A full-stack engineer is a high-level software engineer that works to design, test, and implement various software applications. They create software, applications, and scalable web services, while also providing leadership for coding teams. Full-stack engineers usually possess prodigious skills and are involved in each stage of software development. This can include data structure completion, architecture design, code review, performance evaluation, internal tool management, and updates. The term “full-stack” refers to the engineer’s ability to work on both the front-end and back-end development of an application.
+
+What does a full-stack engineer do?
+At the beginning of a project, full-stack engineers may meet with members of the software development team in order to lay out the scale and scope of the software project. After that, they will begin designing and building the software. Full-stack engineers write various high-level and low-level code. They troubleshoot errors, help design the user experience (UX), resolve bugs, and improve the overall efficiency of the software. Full-stack engineers need excellent collaboration skills because they work with front- and back-end development team members.
+
+Full-stack engineer tools and skills
+Full-stack engineers are master coders. They are typically familiar with the following popular programming languages:
+
+Python
+
+JavaScript
+
+C
+
+Node
+
+HTML/CSS
+
+SQL
+
+PHP [1]
+
+Often, full-stack engineers obtain a Bachelor of Science in Computer Science or a related field. However, many employers may accept professional certifications or relevant work experience instead of a degree.
+
+Work environment
+A wide variety of companies hire full-stack developers. For example, software companies commonly hire them, as well as social media companies, cybersecurity companies, and others. Considering the fact that companies in a wide variety of niches have software applications, there are jobs available in many different industries. However, it is most common for full-stack developers to work in the tech industry.
+
+Full-stack engineer salary and job outlook
+The demand for computer and information technology professionals such as full-stack engineers is expected to increase 13 percent between 2020 and 2030 [2]. This figure translates into an above-average amount of job opportunities for full-stack engineers in the coming decade. Because full-stack engineers are extremely skilled software developers, the pay for this position tends to be higher than average.
+
+The average yearly pay for a full-stack developer is $120,927 [3]. The exact salary that you can earn will depend on your experience, your skills, and the company that you are working for. For example, the average full-stack engineer salary for someone with 0-1 year of experience is $114,566. In contrast, the average annual salary for someone with 4-6 years of experience in full-stack development is $127,304.

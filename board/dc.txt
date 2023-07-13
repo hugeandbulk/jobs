@@ -17,3 +17,91 @@ Good curation includes gathering information from credible sources and adding so
 What are the benefits of curation?
 
 Curating content gives you a broader exposure to new topics, publishers, and websites, thus allowing you to gain insights. These findings can, in turn, help you improve your content marketing strategy and fill the gaps in the content you offer.
+
+Is being a curator stressful?
+
+% who say their job is stressful: 89%
+
+Curators must also research and write museum articles, negotiate the exchange or loan of collections, coordinate with customs and art handlers and answer to directors, the board and artists themselves.
+
+Perkin Elmer India
+Chemistry Data Curator
+Perkin Elmer India  Bengaluru, Karnataka, India
+
+Perkin Elmer India
+Chemistry Data Curator
+Perkin Elmer India  Bengaluru, Karnataka, India
+2 months ago   Be among the first 25 applicants
+Apply 
+
+Save
+
+Job Title
+
+
+Chemistry Data Curator
+
+
+Location(s)
+
+
+India - Remote
+
+
+Chemistry Data Curator
+
+
+Job Description
+
+
+Curate all available chemical information from vendors data into machine readable formats and load them into a central database. Improve existing processes for curation through automation.
+
+
+Responsibilities
+
+
+Extract the vendors data available in different file formats (SDF, CSV, Excel, and plain text) and bring it into a standard format as required to load into a central database. This includes cleaning of the data, conversion of the data from one format to another (e.g. name to structure and vice versa) and generating 2D structure data in SDfiles for loading purposes.
+
+
+Record the above activities into JIRA and Confluence.
+
+
+Examine all steps of the existing process, identify areas where automation can be used, implement the solutions, and devise automated tests.
+
+
+Qualifications And Experience
+
+
+Undergraduate degree or higher in chemistry, preferably organic chemistry
+
+
+Required Skills
+
+
+Experience in working with SQL-based databases, including strong knowledge in using scripts to extract, modify, and load data.
+
+
+Proficient in verbal and written communications.
+
+
+Excellent interpersonal skills.
+
+
+Good To Have
+
+
+Experience using ChemDraw/ChemOffice.
+
+
+Knowledge of IUPAC nomenclature and SDfile format.
+
+
+Knowledge in handling chemical databases with huge datasets.
+
+
+Experience with a scripting language like Python.
+
+
+Knowledge of agile methodologies.
+
+

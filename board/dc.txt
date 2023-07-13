@@ -5,3 +5,7 @@ In the modern era of big data, the curation of data has become more prominent, p
 What is the job role of a data curator?
 
 Data curators are data specialists who collect, organize, clean and transform data to make it accessible for organizations and individuals. Data curators may gather new data or perform a more thorough analysis of existing research.
+
+What is data curation example?
+
+Examples of data curation include: Data Acquisition: This involves selecting and acquiring data from various sources, such as databases, websites, and other digital sources. This step also includes ensuring the data is of high quality and is suitable for the intended use.

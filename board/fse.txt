@@ -1,0 +1,3 @@
+Definition of Full-Stack Engineer
+
+A full-stack engineer is a type of software engineer who works on both the front and back end of software. This means they're concerned with both what users see (the front end) and the parts of the software that make that user-side view possible (the back end).

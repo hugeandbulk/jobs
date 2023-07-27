@@ -20,3 +20,19 @@ Build and promote strong, long-lasting customer relationships by partnering with
 Present sales, revenue and expenses reports and realistic forecasts to the management team
 
 Identify emerging markets and market shifts while being fully aware of new products and competition status
+
+Requirements and skills
+
+BS/MS degree in business administration or a related field
+
+Successful previous experience as a sales representative or sales manager, consistently meeting or exceeding targets
+
+Committed to continuous education through workshops, seminars and conferences
+
+Demonstrated ability to communicate, present and influence credibly and effectively at all levels of the organization
+
+Proven ability to drive the sales process from plan to close
+
+Strong business sense and industry expertise
+
+Excellent mentoring, coaching and people management skills

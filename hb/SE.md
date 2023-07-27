@@ -33,4 +33,22 @@ Negotiate/close deals and handle complaints or objections
 Collaborate with team members to achieve better results
 Gather feedback from customers or prospects and share with internal teams
 
+Requirements and skills
 
+Proven experience as a Sales Executive or relevant role
+
+Proficiency in English
+
+Excellent knowledge of MS Office
+
+Hands-on experience with CRM software is a plus
+
+Thorough understanding of marketing and negotiating techniques
+
+Fast learner and passion for sales
+
+Self-motivated with a results-driven approach
+
+Aptitude in delivering attractive presentations
+
+High school degree
